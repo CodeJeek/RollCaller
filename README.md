@@ -1,6 +1,6 @@
 # RollCaller
 
-**English** · [中文 (简体)](README.zh-CN.md)
+**English** · [中文 (简体)](README_zh-CN.md)
 
 A Qt/QML desktop app for random roll call — import a roster from Excel and draw names with either a rolling animation or a lottery-style reveal. Built with C++17 and Qt Quick.
 
