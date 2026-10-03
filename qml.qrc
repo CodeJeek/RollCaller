@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainWindow.qml</file>
+        <file>ThemePalette.qml</file>
+        <file>Sidebar.qml</file>
+        <file>HomePage.qml</file>
+        <file>RosterPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>FloatingRollWindow.qml</file>
+        <file>DrawWindow.qml</file>
+        <file>ExcelImportWindow.qml</file>
+    </qresource>
+</RCC>

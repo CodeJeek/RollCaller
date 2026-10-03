@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>resources/fonts/SegoeFluentIcons.ttf</file>
+        <file>resources/fonts/Segoe-UI-Variable-Static-Text.ttf</file>
+    </qresource>
+</RCC>
