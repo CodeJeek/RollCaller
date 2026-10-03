@@ -54,6 +54,8 @@ else()
     else()
         add_executable(RollCaller
             ${PROJECT_SOURCES}
+            README.md
+            README_zh-CN.md
         )
     endif()
 
